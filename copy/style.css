@@ -1,11 +1,12 @@
 h2 {
     color: red;
 }
+.div_title {
+
+}
 .container {
     background-color: grey;
-}
-.div_title {
-    
+    position: absolute;
 }
 .shapes {
     background-color: black;
@@ -14,6 +15,8 @@ h2 {
     background-color: green;
     margin: 3px;
     float: left;
+    border-color: black;
+    height: 220px;
 }
 .square {
     background-color: blue;
@@ -37,14 +40,15 @@ h2 {
     margin: 20px;
 }
 .theTriangle {
-    height: 100px;
-    width: 100px;
-    background-color: white;
-    margin: 20px;  
+    width: 0;
+    height: 0;
+    border: solid 30px black;
+    border-color: transparent transparent white transparent;
 }
+
 .theRectangle {
     height: 100px;
-    width: 100px;
+    width: 200px;
     background-color: white;
     margin: 20px;
 }
@@ -53,4 +57,5 @@ h2 {
     width: 100px;
     background-color: white;
     margin: 20px;
+    border-radius: 50%;
 }
