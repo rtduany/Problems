@@ -30,3 +30,9 @@ h2 {
     margin: 3px;
     float: left;
 }
+.theSquare {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    margin-left: 30px;
+}
