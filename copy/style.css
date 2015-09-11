@@ -11,14 +11,18 @@ h2 {
     background-color: black;
 }
 .triangle {
-    background-color: green;    
+    background-color: green;
+    margin: 3px;
 }
 .square {
     background-color: blue;
+    margin: 3px;
 }
 .rect {
     background-color: yellow;
+    margin: 3px;
 }
 .circle {
     background-color: red;
+    margin: 3px;
 }
