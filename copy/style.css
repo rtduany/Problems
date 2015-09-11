@@ -20,7 +20,7 @@ h2 {
     margin: 3px;
     float: left;
 }
-.rect {
+.rectangle {
     background-color: yellow;
     margin: 3px;
     float: left;
@@ -35,12 +35,22 @@ h2 {
     width: 100px;
     background-color: white;
     margin: 20px;
-    
 }
 .theTriangle {
     height: 100px;
     width: 100px;
     background-color: white;
+    margin: 20px;  
+}
+.theRectangle {
+    height: 100px;
+    width: 100px;
+    background-color: white;
     margin: 20px;
-    
+}
+.theCircle {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    margin: 20px;
 }
