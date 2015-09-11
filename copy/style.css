@@ -10,3 +10,15 @@ h2 {
 .shapes {
     background-color: black;
 }
+.triangle {
+    background-color: green;    
+}
+.square {
+    background-color: blue;
+}
+.rect {
+    background-color: yellow;
+}
+.circle {
+    background-color: red;
+}
